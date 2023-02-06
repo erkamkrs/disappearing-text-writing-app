@@ -1,4 +1,5 @@
 # Disappearing Text Writing App v.01
+![alt text](https://github.com/erkamkrs/disappearing-text-writing-app/blob/master/DTWA-screenshot.png)
 
 ## Description
 
